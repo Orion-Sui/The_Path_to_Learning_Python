@@ -8,6 +8,8 @@ If you want to get in touch with me, you can send an email to szh_dmu@163.com.
 
 Wishing you good health and happiness every day!
 
+2024.9.1
+
 # Chapter-01 
 基础语法、pyecharts数据可视化
 # Chapter-02 
